@@ -1,4 +1,4 @@
-# LPG-leak-detection
+# Design-of-Temperature-Humidity-Monitoring-System-Based-on-Internet-of-Things-IoT-Fire-Detection-
 LPG (Liquefied Petroleum Gas) is a mixture of various hydrocarbon elements derived from natural gas which has been added to pressure and the temperature is lowered so that it is in the form of a liquid. Leaks often result in fires in the room, which can cause fatal losses. Therefore, before an adverse fire event occurs, a fire extinguishing system is needed that quickly detects safe signs of fire, as well as early countermeasures against the potential for a fire that can automatically detect the trigger for this disaster and quickly detect signs of a fire. with the latest technology. Temperature & Humidity Monitoring System as a Fire Detection Alarm in an Internet of Things (IoT) based LPG Gas Warehouse.
 
 ![Picture1](https://user-images.githubusercontent.com/110672446/183291826-0d337988-458e-43a0-b99a-501c0cf07d6f.jpg)
